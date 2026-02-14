@@ -10,6 +10,7 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: '/httpcobalto60/',
     head: {
       title: 'HTTP Cobalto 60 — Códigos HTTP desde la realidad de México',
       meta: [
